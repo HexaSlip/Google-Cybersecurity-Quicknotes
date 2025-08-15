@@ -1,0 +1,35 @@
+### Foundations of Cybersecurity (Course 1 Notes)(Sect. 1) 
+  **Overall Concept**: Cybersecurity: the practice of ensuring the confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation
+
+### Threats in the Cybersecurity world:
+
+**Key Term** **Threat Actor**: Person or group posing a security risk
+
+🕵️**External Threat**:
+-Outside the organization
+-Gains access to priv. information, networks, or devices
+*Example: A hacker attempting a DoS attack on the company website*
+**Most Likely Target:** Public-facing systems (websites, email servers, exposed APIs) 
+**Likelihood: **Moderate**
+**Difficulty to Defend:** Easier (firewalls, patching, IDS)
+
+🏢**Internal Threat**: 
+-Accidental or Intentional 
+-Inside the org( employees, vendors, partners)
+*Example: An employee clicking a phishing email that installs malware*
+**Most Likely Target:** Company email, shared drives, internal apps
+**Likelihood:** High (human error is common)
+**Difficulty to Defend:** Harder (insider access is trusted) 
+
+💡 Tip: Internal Threats often stem from human error( i.e, clicking on a phishing email or link)
+
+**Internal Actor**:
+-Intentional
+-Unauthorized data access
+-Misuses systems for personal gain
+*Example: A disgruntled employee steals customer data to sell online* 
+**Most Likely Target:** Sensitive databases, trade secrets, financial records
+**Likelihood:** Low-Moderate
+**Difficulty to Defend:** Hardest (trusted access + malicious intent) 
+
+💡 Tip: Internal Actors are dangerous since they already have access to the system and can easily move or leak data if given the opportunity.
