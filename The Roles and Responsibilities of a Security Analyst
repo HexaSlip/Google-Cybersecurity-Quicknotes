@@ -1,0 +1,49 @@
+####### The Foundations of Cybersecurity (Course 1 Notes) (Module 1) ######
+
+####### **The Roles and Responsibilities of a Security Analyst** ######
+
+**Protects Against External and Internal Threats**
+- Analysts mitigate or reduce impact of security threats, both external and internal.
+
+**Meeting Regulatory Compliance**
+- **Key term** Compliance = ensuring the organization follows, laws, standards, and internal policies. 
+- Ensures that organization implements standards that meet regulatory compliance
+- Helps avoid fines and audits while maintaining ethical obligation
+
+**Maintaining and Improve Business Continuity**
+- **Key Term** Business Continuity = making sure operations keep running even during incidents
+- Establishing and maintains a business continuity plan for scenarios such as data breaches or system failure
+
+**Maintaining Brand Trust**
+- Prioritizes the importance of customer trust 
+- Recognizes that breaches can damage the organization's reputation in the long term
+
+**Protecting Computer and Network Systems**
+- Monitors an organization's internal network 
+- Acts as the first responder if a threat is detected
+- Contributes to Penetration testing and suggest ways to strengthen security. 
+- Proactively work to prevent threats
+
+**Reduce Expenses**
+- Minimizes costs associated with data loss or operational downtime
+- Helps the organization avoid fines and penalties
+
+**Installing Prevention Software**
+- **Key Term** Prevention Software = software and hardware designed to prevent security breaches. 
+- Collaborates with different security teams to set up appropriate processes and systems that meet organizational needs
+
+**Conducting Periodic Security Audits**
+- **Key Term** Security Audit = A review of an organization's security records, activities, and related documents.
+- Examine in-house security practices to ensure confidential information is properly protected.
+
+**Security Posture**
+-**Key Term** Security Posture = the organization's ability to manage its defense of critical assets and data and respond effectively to threats..
+
+### Role of Security Analysts in Security Posture
+-Security analysts **monitor systems and networks** to identify vulnerabilities or active threats.  
+- They **implement controls** (software, hardware, and policies) to strengthen defenses.  
+- Analysts **respond quickly to incidents**, minimizing damage and downtime.  
+- They **ensure regulatory compliance**, which supports a strong security posture.  
+- They **recommend improvements** based on audits, vulnerabilities, or emerging threats.  
+
+> In short: the effectiveness of security analysts directly impacts the strength and resilience of an organization’s security posture.
